@@ -6,10 +6,7 @@ Este projeto tem por objetivo desenvolver uma apostila gratuita sobre o desenvol
 - Programação C
 - Arduino
 
-A apostila é escrita em markdown utilizando as bibliotecas Pandoc e Wordsmith.
-
-[Pandoc][http://johnmacfarlane.net/pandoc/installing.html]
-[Wordsmith][https://github.com/tractical/wordsmith]
+A apostila é escrita em markdown utilizando as bibliotecas [Pandoc](http://johnmacfarlane.net/pandoc/installing.html) e [Wordsmith](https://github.com/tractical/wordsmith).
 
 :)
 
