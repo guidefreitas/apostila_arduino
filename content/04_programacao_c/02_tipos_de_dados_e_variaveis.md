@@ -1,22 +1,10 @@
+
 ## Tipos de Dados e Variáveis
 
-```C
+Neste capítulo vamos aprender o que são as variáveis e para que servem. Vamos aprender também quais são os tipos de variáveis mais comuns existentes na linguagem C e alguns exemplos de como utilizá-las.
 
-int ledPin = 13;
+### Tipos Simples
 
-void setup(){
-  
-}
+### Vetores (Arrays)
 
-void loop(){
-  
-}
-```
-
-```ruby
-def fib(n)
-  return 0 if n <= 0
-  return 1 if n == 1
-  fib(n - 1) + fib(n - 2)
-end
-```
+### Estruturas (Struct)
